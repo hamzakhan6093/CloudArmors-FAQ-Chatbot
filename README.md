@@ -13,3 +13,8 @@ conda activate Armorsenv
 ''' To deactivate
 
 conda deactivate '''
+
+
+''' To deactivate
+
+pip install -r requirement.txt '''
